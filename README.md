@@ -1,0 +1,1 @@
+# Simple-PHP-program-to-get-two-input-values-from-the-user
